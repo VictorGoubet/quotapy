@@ -53,7 +53,7 @@ Victor Goubet - victorgoubet@orange.fr
 
 [![LinkedIn][linkedin-shield]][linkedin-url-thomas]
 </br>
-Thomas Graff
+Thomas Graff - thomasgraff44@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -65,4 +65,4 @@ Thomas Graff
 [issues-url]: https://github.com/VictorGoubet/quotapy/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-victor]: https://www.linkedin.com/in/victorgoubet/$
-[linkedin-url-thomas]: https://www.linkedin.com/in/victorgoubet/
+[linkedin-url-thomas]: https://www.linkedin.com/in/thomas-graff

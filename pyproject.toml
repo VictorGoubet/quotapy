@@ -1,3 +1,17 @@
+[tool.poetry]
+name = "quotapy"
+version = "0.1.0"
+description = ""
+authors = ["Thomas Graff <thomasgraff44@gmail.com>", "Victor Goubet <victorgoubet@orange.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.0"
+
+[tool.poetry.scripts]
+helloworld = "src.quotapy.helloworld:test"
+
 [build-system]
-requires = ["setuptools>=42"]
-build-backend = "setuptools.build_meta"
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
