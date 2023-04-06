@@ -65,4 +65,4 @@ Thomas Graff - thomasgraff44@gmail.com
 [issues-url]: https://github.com/VictorGoubet/quotapy/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-victor]: https://www.linkedin.com/in/victorgoubet/$
-[linkedin-url-thomas]: https://fr.linkedin.com/in/thomas-graff
+[linkedin-url-thomas]: https://www.linkedin.com/in/thomas-graff
