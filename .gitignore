@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Pycharm
+.idea/
+
+#Poetry
+poetry.lock
