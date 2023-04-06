@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install poetry
-        uses: ./.github/actions/install-poetry.yml
+        uses: ./.github/actions/install-poetry
         with:
           poetry-version: ${{ matrix.poetry-version }}
       - name: View poetry --help
